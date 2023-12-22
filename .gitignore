@@ -1,1 +1,6 @@
 .conda
+.env
+.vscode
+dersler/
+config.py
+__pycache__
