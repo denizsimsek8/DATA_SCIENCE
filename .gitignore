@@ -1,6 +1,7 @@
 .conda
 .env
 .vscode
-dersler/
+
+# configurations
 config.py
 __pycache__
